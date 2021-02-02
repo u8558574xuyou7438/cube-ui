@@ -56,7 +56,7 @@
   ],
   "license": "Apache",
   "dependencies": {
-    "better-scroll": "~1.12.6",
+    "better-scroll": "~1.15.2",
     "vue-create-api": "^0.2.3"
   },
   "peerDependencies": {
